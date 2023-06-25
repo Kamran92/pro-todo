@@ -1,0 +1,9 @@
+.bottom-panel .new-todo-label {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
+
+.bottom-panel button {
+  margin-left: 3px;
+}
